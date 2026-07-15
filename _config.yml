@@ -1,4 +1,18 @@
-title: Ratify Blog
-description: Notes on building Ratify, an open-source data contract workflow engine.
-theme: jekyll-theme-minimal
-baseurl: "/blog"
+title: Ratify
+tagline: Notes on building a data contract workflow engine
+description: >-
+  Ratify is a data contract workflow engine. This is where we write about
+  our journey.
+
+url: "https://ratifydata.github.io"
+baseurl: "/ratify-blog"
+
+markdown: kramdown
+paginate: 5
+paginate_path: /page:num/
+
+plugins:
+  - jekyll-paginate
+
+exclude:
+  - README.md

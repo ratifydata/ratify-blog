@@ -2,7 +2,7 @@
 
 Source for the Ratify blog, published via GitHub Pages at:
 
-https://ratifydata.github.io/blog
+https://ratifydata.github.io/ratify-blog
 
 ## Adding a post
 
