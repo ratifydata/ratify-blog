@@ -1,0 +1,4 @@
+title: Ratify Blog
+description: Notes on building Ratify, an open-source data contract workflow engine.
+theme: jekyll-theme-minimal
+baseurl: "/blog"
