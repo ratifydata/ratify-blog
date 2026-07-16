@@ -108,6 +108,16 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
   font-family: 'DM Serif Display', Georgia, serif;
 }
+.masthead-icon {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  vertical-align: middle;
+  margin-right: .5rem;
+  border-radius: 20%;
+  position: relative;
+  top: -0.15rem;
+}
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
